@@ -42,3 +42,7 @@ Challenges faced and how I solved them:
 At first, the incorrect distance readings occurred due to wiring issues, which were fixed by proper connections. 
 There was slight delay in response, reduced by optimizing code timing. Stable sensor placement improved accuracy.
 I initially forgot to change the resistor measurement to 220 ohm which in real circuits would be dangerous.
+
+#SectionB_MiniProject_Q2_Automatic Night Lamp
+
+https://www.tinkercad.com/things/fpN1zl3o8Iu-secb-miniproject-q2?sharecode=Gs1mfO-4E0j27XtlVIh34qMabPle_A4LR0EDX4oXGQU
