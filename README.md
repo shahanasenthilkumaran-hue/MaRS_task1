@@ -1,4 +1,4 @@
-#_MaRS_task1
+# MaRS_task1
 
 #_Section A_Q1_Blinking LED with different time interval
 
