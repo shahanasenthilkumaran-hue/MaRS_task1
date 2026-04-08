@@ -46,3 +46,16 @@ I initially forgot to change the resistor measurement to 220 ohm which in real c
 #SectionB_MiniProject_Q2_Automatic Night Lamp
 
 https://www.tinkercad.com/things/fpN1zl3o8Iu-secb-miniproject-q2?sharecode=Gs1mfO-4E0j27XtlVIh34qMabPle_A4LR0EDX4oXGQU
+
+What the project does and why I chose it:
+This project automatically turns on an LED when the surroundings are dark using an LDR sensor. 
+I chose this project because it demonstrates automatic lighting systems used in real life applications.
+
+Components used and their roles:
+Arduino- Processes sensor input.  
+LDR- Detects light intensity and a resistor forms a voltage divider. 
+LED- It acts as the output indicator and a second resistor protects it from excess current.
+
+Challenges faced and how I solved them:
+Initially, incorrect readings at the serial monitor occurred due to improper wiring of the voltage divider, which was corrected.
+The threshold value was adjusted to achieve accurate switching between light and dark conditions.
